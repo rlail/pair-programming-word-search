@@ -15,7 +15,6 @@ const wordSearch = (letters, word) => {
 
     return false;
 }
-
 module.exports = wordSearch
 
 const transpose = function (matrix) {
